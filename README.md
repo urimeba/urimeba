@@ -17,17 +17,17 @@ You can use the website to generate badges: https://shields.io/
    Estudiante de último semetre de la Ing. de Software en la Universidad Autónoma de Querétaro. Desarrollador back-end. Coordinador de la traducción al español de Django.
   </samp>
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=shahzadafridi" alt="https://github.com/shahzadafridi" />
 </p>
 
 <hr>
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="260" />
 
-### Talking about Personal Stuffs:
+### Cosas personales que debes saber
 - 🛠 &nbsp; I’m currently working with Android, Kotlin, Java, Laravel lumen Graphql, MySQL, ROOM/SQLite, AWS and firebase.
-- 🚀 &nbsp; I’m always learning to keep myself updated with latest stuff.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/shahzadafridi).
+Actualmente trabajo con Django & NodeJS, MySQL & MongoDB, HTML & CSS.
+- 🚀 &nbsp; Me gusta mucho aprender nuevas cosas todos los días.
+- 👨🏻‍💻 &nbsp; La mayoria de mis proyectos estan disponibles en [Github](https://github.com/urimeba).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/shahzadafridi/shahzadafridi/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Enjoying life with coding for people.
 - 📫 &nbsp; How to reach me: shahzadahmadafridi@gmail.com
