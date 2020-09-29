@@ -75,7 +75,8 @@ Proximámente React.js
 
 ### Hackatones
 Me encanta participar en estos eventos, una satisfactoria participación dentro de todos ellos. Debido a nuestros conocimientos técnicos, dos compañeros de la Facultad de Informática de la UAQ y yo, fuimos de los 50 seleccionados para participar en el "1er HackaFest" celebrado en la universidad IBERO Puebla el mes de Octubre del 2019, por Sparkassen-Finanzgruppe (Grupo Financiero de las Cajas de Ahorro Alemanas), evento que duro una semana y donde presentamos el proyecto por el cual fuimos invitados por Sparkassen-Finanzgruppe al Simposium “Nuevas Tecnologias e Inclusion Financiera: Oportunidades y desafios para el sector cooperativo” de FIRA (Fideicomisos Instituidos en Relación con la Agricultura) en la ciudad de Morelia en Noviembre de 2019, evento que duro 1 dia y donde se propusieron soluciones de innovación tecnológica para el crecimiento exponencial de apoyos de apoyos que las Cajas de Ahorro brindaban al campo mexicano.
-Actividades y grupos: 
+<br>
+**Actividades y grupos:**
 - Centro de Desarrollo, Facultad de Informática UAQ. Querétaro. (2019 - Actualidad)
 - Simposium de FIRA: Nuevas Tecnologías e Inclusión Financiera. Morelia. (2019)
 - HackaFest por Sparkassenstiftung. Puebla. (2019)
