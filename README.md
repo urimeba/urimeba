@@ -6,16 +6,15 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/urimeba)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/urimeba/://www.linkedin.com/in/imshahzadafridi/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/urimeba/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/urimeba)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:urimeba511@gmail.com)
 &nbsp;
 
-<p align="center"> (Open for freelancing projects)</p>
-
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<h2 align="center"> 👨‍💻 <b>urimeba</b> </h2>
 <p align="center">
-  <samp>A highly resourceful android developer. Proficient in Java, Kotlin and version control framework. Highly motivated, quick learner, hard working and experienced in working in a fast paced environment
+  <samp>
+   Estudiante de último semetre de la Ing. de Software en la Universidad Autónoma de Querétaro. Desarrollador back-end. Coordinador de la traducción al español de Django.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=shahzadafridi" alt="https://github.com/shahzadafridi" />
