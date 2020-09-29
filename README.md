@@ -24,19 +24,17 @@ You can use the website to generate badges: https://shields.io/
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="260" />
 
 ### Cosas personales que debes saber
-- 🛠 &nbsp; I’m currently working with Android, Kotlin, Java, Laravel lumen Graphql, MySQL, ROOM/SQLite, AWS and firebase.
-Actualmente trabajo con Django & NodeJS, MySQL & MongoDB, HTML & CSS.
+- 🛠 &nbsp; Actualmente trabajo con Django & NodeJS, MySQL & MongoDB, HTML & CSS.
 - 🚀 &nbsp; Me gusta mucho aprender nuevas cosas todos los días.
 - 👨🏻‍💻 &nbsp; La mayoria de mis proyectos estan disponibles en [Github](https://github.com/urimeba).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/shahzadafridi/shahzadafridi/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Enjoying life with coding for people.
-- 📫 &nbsp; How to reach me: shahzadahmadafridi@gmail.com
-<!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf). -->
-- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="shahzadafridi" height="20" width="20" /> Checkout my [Profile](https://stackoverflow.com/users/6672577/shahzad-afridi).
+- 💬 &nbsp; Me gusta poder ayudar a quien lo necesite. Si sientes que puedo ayudarte, puedes preguntarme [aqui](mailto:urimeba511@gmail.com)! Estaré encantado de ayudar.
+- 👾 &nbsp; Me gusta programar acompañado de gente :D
+- 📫 &nbsp; Puedes contactame en: urimeba511@gmail.com
+- 📝 &nbsp; Te dejo mi Curriculum Vitae [CV](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
   
 <hr>
 
-### Languages and Tools:
+### Lenguajes, herramientas o frameworks:
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
@@ -61,7 +59,7 @@ Actualmente trabajo con Django & NodeJS, MySQL & MongoDB, HTML & CSS.
 ### Open Source:
 
 
-![](https://github-readme-stats.vercel.app/api?username=shahzadafridi&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=urimeba&show_icons=true)
 
  <hr>
 <p align="center">
