@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Soy Uriel Medina, Desarrollador Back-End 🚀 de México.
+## I'm Uriel Medina, Back-End Developer 🚀 from México.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -13,8 +13,8 @@ You can use the website to generate badges: https://shields.io/
 
 <h2 align="center"> 👨‍💻 <b>urimeba</b> </h2>
 <p align="center">
-  <samp>
-   Estudiante de último semetre de la Ing. de Software en la Universidad Autónoma de Querétaro. Desarrollador back-end. Coordinador de la traducción al español de Django.
+  <samp> 
+    Software Engineering Student at Queretaro's Autonomous University. Back-end developer. Spanish Coordinator of the Django Team Translation. 
   </samp>
   <br> <br>
 </p>
@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="260" />
 
-### Cosas personales que debes saber
+### Personal stuff you should know about me
 - 🛠 &nbsp; Actualmente trabajo con Django & NodeJS, MySQL & MongoDB, HTML & CSS (sí, me gusta el desarrollo web)
 - 🚀 &nbsp; Me gusta mucho aprender nuevas cosas todos los días.
 - 👨🏻‍💻 &nbsp; La mayoria de mis proyectos estan disponibles en [Github](https://github.com/urimeba).
