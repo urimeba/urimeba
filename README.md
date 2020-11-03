@@ -68,7 +68,7 @@ You can use the website to generate badges: https://shields.io/
 
 ![](https://github-readme-stats.vercel.app/api?username=urimeba&show_icons=true)
 
-- Currently, Spanish Coordinator of the [Django Team Translation](https://www.transifex.com/user/profile/urimeba/).
+- Currently, I'm the Spanish Coordinator of the [Django Team Translation](https://www.transifex.com/user/profile/urimeba/).
 - In 2020, I taught a semester course where I taught the +15 students about Python, MySQL, Django and Git.
 - Desde el primer semestre de 2019, soy Colaborador de 'Centro de Desarrollo', un espacio permantente abierto a maestros y alumnos para la creación de proyectos de software y hardware internos y externos.
 - Since February 2019, I'm collaborator of 'Development Center' (Centro de Desarrollo), a permanent space open to teachers and students for the creation of internal and external software and hardware projects.
