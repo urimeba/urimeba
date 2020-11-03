@@ -24,18 +24,19 @@ You can use the website to generate badges: https://shields.io/
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="260" />
 
 ### Personal stuff you should know about me
-- 🛠 &nbsp; Actualmente trabajo con Django & NodeJS, MySQL & MongoDB, HTML & CSS (sí, me gusta el desarrollo web)
-- 🚀 &nbsp; Me gusta mucho aprender nuevas cosas todos los días.
+- 🛠 &nbsp; Currently, I work with Django & NodeJS, MySQL & MongoDB, HTML & CSS (yeah, kinda like web development)
+- 🚀 &nbsp; I like a lot to learn new stuff everyday
 - 👨🏻‍💻 &nbsp; La mayoria de mis proyectos estan disponibles en [Github](https://github.com/urimeba).
+- 👨🏻‍💻 &nbsp; Most of my projects are hosted in [Github](https://github.com/urimeba).
 - 💬 &nbsp; Me gusta poder ayudar a quien lo necesite. Si sientes que puedo ayudarte, ¡puedes preguntarme [aqui](mailto:urimeba511@gmail.com)! Estaré encantado de ayudar.
-- 👾 &nbsp; Realizo pequeñas practicas de diversas cosas en mi [Instagram](https://www.instagram.com/urimeba)
-- 📫 &nbsp; Puedes contactame en mi correo urimeba511@gmail.com
-- 📝 &nbsp; Este es mi Curriculum Vitae: [CV](https://github.com/urimeba/urimeba/blob/master/CV.pdf).
+- 💬 &nbsp; I like to be able to help anyone who needs it. If you feel I can help you, you can ask me [here](mailto:urimeba511@gmail.com)! I'll be glad to help!
+- 👾 &nbsp; I do some Weekly Challenges on my [Instagram](https://www.instagram.com/urimeba) about different stuff (CI/CD, IaaS, Kubernetes, Docker, Azure, AWS)
+- 📫 &nbsp; You can reach me through my email: urimeba511@gmail.com
+- 📝 &nbsp; This is my Curriculum Vitae: [CV](https://github.com/urimeba/urimeba/blob/master/CV.pdf).
   
 <hr>
 
-### Lenguajes, herramientas o frameworks:
-Proximámente React.js
+### Languages, tools or frameworks:
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
