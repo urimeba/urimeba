@@ -78,19 +78,19 @@ You can use the website to generate badges: https://shields.io/
 I love participating in these events, with a satisfactory participation in all of them. Due to our technical knowledge, two colleagues from the UAQ Faculty of Computer Science and I were among the 50 selected to participate in the "1st HackaFest" held at the IBERO Puebla University in October 2019, by Sparkassen-Finanzgruppe ( Financial Group of German Savings Banks), an event that lasted one week and where we presented the project for which we were invited by Sparkassen-Finanzgruppe to the Symposium "New Technologies and Financial Inclusion: Opportunities and challenges for the cooperative sector" of FIRA (Trusts Instituted in Relation to Agriculture) in the city of Morelia in November 2019, an event that lasted 1 day and where technological innovation solutions were proposed for the exponential growth of support that the Savings Banks provided to the Mexican countryside.
 <br>
 **Activities and Groups:**
-- Centro de Desarrollo, Facultad de Informática UAQ. Querétaro. (2019 - Actualidad)
-- Simposium de FIRA: Nuevas Tecnologías e Inclusión Financiera. Morelia. (2019)
-- HackaFest por Sparkassenstiftung. Puebla. (2019)
-- Hackaton Anual de la Facultad de Informática. Querétaro. (2018 & 2019)
-- Semana Nacional del Emprendedor. CDMX. (2017)
+- Development Center, Faculty of Informatics UAQ. Queretaro. (2019 - Present)
+- FIRA Symposium: New Technologies and Financial Inclusion. Morelia. (2019)
+- HackaFest by Sparkassenstiftung. Puebla. (2019)
+- Annual Hackathon of the Faculty of Informatics. Queretaro. (2018 & 2019)
+- National Entrepreneur Week. CDMX. (2017)
 
  <hr>
 <p align="center">
-   <i>"La funcion de un buen software es hacer que lo complejo aparente ser simple."</i>
+   <i>"The function of good software is to make the complex appear simple."</i>
    <br>
-   <i>"Casarse con un software es un pecado capital en este mundo de constante evolución."</i>
+   <i>"Marrying software is a cardinal sin in this constantly evolving world."</i>
    <br>
-   <i>"Si deseas desarrollar algo no necesitas millones de doláres. Necesitas suficiente pizza y refresco, una PC barata y trabajo y dedicación."</i>
+   <i>"If you want to develop something you don't need millions of dollars. You need enough pizza and soda, a cheap PC, and work and dedication."</i>
 <br>
 
 </p>
