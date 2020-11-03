@@ -68,15 +68,16 @@ You can use the website to generate badges: https://shields.io/
 
 ![](https://github-readme-stats.vercel.app/api?username=urimeba&show_icons=true)
 
-- Actualmente soy Coordinador de la [Traducción al Español](https://www.transifex.com/user/profile/urimeba/) de Django.
-- En el 2020, impartí un curso semestral donde enseñe a los +15 alumnos acerca de Python, MySQL, Django y Git.
+- Currently, Spanish Coordinator of the [Django Team Translation](https://www.transifex.com/user/profile/urimeba/).
+- In 2020, I taught a semester course where I taught the +15 students about Python, MySQL, Django and Git.
 - Desde el primer semestre de 2019, soy Colaborador de 'Centro de Desarrollo', un espacio permantente abierto a maestros y alumnos para la creación de proyectos de software y hardware internos y externos.
-- En el segundo semestre de 2018, me propuse como uno de los tutores pares que la Facultad de Informática ofrecia a sus alumnos para el apoyo de materias de programación.
+- Since February 2019, I'm collaborator of 'Development Center' (Centro de Desarrollo), a permanent space open to teachers and students for the creation of internal and external software and hardware projects.
+- In the second semester of 2018, I proposed myself as one of the peer tutors that the Faculty of Informatics offered to its students to support programming subjects.
 
-### Hackatones
-Me encanta participar en estos eventos, una satisfactoria participación dentro de todos ellos. Debido a nuestros conocimientos técnicos, dos compañeros de la Facultad de Informática de la UAQ y yo, fuimos de los 50 seleccionados para participar en el "1er HackaFest" celebrado en la universidad IBERO Puebla el mes de Octubre del 2019, por Sparkassen-Finanzgruppe (Grupo Financiero de las Cajas de Ahorro Alemanas), evento que duro una semana y donde presentamos el proyecto por el cual fuimos invitados por Sparkassen-Finanzgruppe al Simposium “Nuevas Tecnologias e Inclusion Financiera: Oportunidades y desafios para el sector cooperativo” de FIRA (Fideicomisos Instituidos en Relación con la Agricultura) en la ciudad de Morelia en Noviembre de 2019, evento que duro 1 dia y donde se propusieron soluciones de innovación tecnológica para el crecimiento exponencial de apoyos de apoyos que las Cajas de Ahorro brindaban al campo mexicano.
+### Hackatons
+I love participating in these events, with a satisfactory participation in all of them. Due to our technical knowledge, two colleagues from the UAQ Faculty of Computer Science and I were among the 50 selected to participate in the "1st HackaFest" held at the IBERO Puebla University in October 2019, by Sparkassen-Finanzgruppe ( Financial Group of German Savings Banks), an event that lasted one week and where we presented the project for which we were invited by Sparkassen-Finanzgruppe to the Symposium "New Technologies and Financial Inclusion: Opportunities and challenges for the cooperative sector" of FIRA (Trusts Instituted in Relation to Agriculture) in the city of Morelia in November 2019, an event that lasted 1 day and where technological innovation solutions were proposed for the exponential growth of support that the Savings Banks provided to the Mexican countryside.
 <br>
-**Actividades y grupos:**
+**Activities and Groups:**
 - Centro de Desarrollo, Facultad de Informática UAQ. Querétaro. (2019 - Actualidad)
 - Simposium de FIRA: Nuevas Tecnologías e Inclusión Financiera. Morelia. (2019)
 - HackaFest por Sparkassenstiftung. Puebla. (2019)
