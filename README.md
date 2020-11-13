@@ -30,7 +30,7 @@ You can use the website to generate badges: https://shields.io/
 - 💬 &nbsp; I like to be able to help anyone who needs it. If you feel I can help you, you can ask me [here](mailto:urimeba511@gmail.com)! I'll be glad to help!
 - 👾 &nbsp; I do some Weekly Challenges on my [Instagram](https://www.instagram.com/urimeba) about different stuff (CI/CD, IaaS, Kubernetes, Docker, Azure, AWS)
 - 📫 &nbsp; You can reach me through my email: urimeba511@gmail.com
-- 📝 &nbsp; This is my Curriculum Vitae: [CV](https://github.com/urimeba/urimeba/blob/master/CV.pdf).
+- 📝 &nbsp; This is my Curriculum Vitae: [CV](https://github.com/urimeba/urimeba/blob/master/CV%20English.pdf) [(CV in Spanish)](https://github.com/urimeba/urimeba/blob/master/CV%20Espanol.pdf).
   
 <hr>
 
