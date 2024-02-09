@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 <h2 align="center"> 👨‍💻 <b>urimeba</b> </h2>
 <p align="center">
   <samp> 
-    Software Engineering Student at Queretaro's Autonomous University. Back-end developer. Spanish Coordinator of the Django Team Translation. 
+    Software Engineering from Queretaro's Autonomous University. Back-end developer. Spanish Coordinator of the Django Team Translation. 
   </samp>
   <br> <br>
 </p>
@@ -24,11 +24,11 @@ You can use the website to generate badges: https://shields.io/
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="260" />
 
 ### Personal stuff you should know about me
-- 🛠 &nbsp; Currently, I work with Django & NodeJS, MySQL & MongoDB, HTML & CSS (yeah, kinda like web development)
+- 🛠 &nbsp; Currently, I work with Golang, Salesforce, MySQL, Docker and Kubernetes most of the time 
 - 🚀 &nbsp; I like a lot to learn new stuff everyday
 - 👨🏻‍💻 &nbsp; Most of my projects are hosted in my Personal [Github](https://github.com/urimeba), but anothers are hosted on my Work [Github](https://github.com/urimeba2) .
 - 💬 &nbsp; I like to be able to help anyone who needs it. If you feel I can help you, you can ask me [here](mailto:urimeba511@gmail.com)! I'll be glad to help!
-- 👾 &nbsp; I do some Weekly Challenges on my [Instagram](https://www.instagram.com/urimeba) about different stuff (CI/CD, IaaS, Kubernetes, Docker, Azure, AWS)
+- 👾 &nbsp; I did some Weekly Challenges on my [Instagram](https://www.instagram.com/urimeba) about different stuff (CI/CD, IaaS, Kubernetes, Docker, Azure, AWS)
 - 📫 &nbsp; You can reach me through my email: urimeba511@gmail.com
 - 📝 &nbsp; This is my Curriculum Vitae: [CV in English](https://github.com/urimeba/urimeba/blob/master/CV%20Uriel%20Medina%20-%20Backend%20Developer%20(English).pdf) [(CV in Spanish)](https://github.com/urimeba/urimeba/blob/master/CV%20Uriel%20Medina%20-%20Desarrollador%20Backend%20(Spanish).pdf).
   
@@ -36,31 +36,36 @@ You can use the website to generate badges: https://shields.io/
 
 ### Languages, tools or frameworks:
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/droneio/droneio-ar21.svg"></code>
+
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
 </p>
 
 <hr>
@@ -72,8 +77,7 @@ You can use the website to generate badges: https://shields.io/
 
 - Currently, I'm the Spanish Coordinator of the [Django Team Translation](https://www.transifex.com/user/profile/urimeba/).
 - In 2020, I taught a semester course where I taught the +15 students about Python, MySQL, Django and Git.
-- Since February 2019, I'm collaborator of 'Development Center' (Centro de Desarrollo), a permanent space open to teachers and students for the creation of internal and external software and hardware projects.
-- In the second semester of 2018, I proposed myself as one of the peer tutors that the Faculty of Informatics offered to its students to support programming subjects.
+- From February 2019 to December 2020, I was a collaborator of 'Development Center' (Centro de Desarrollo), a permanent space open to teachers and students for the creation of internal and external software and hardware projects.
 
 ### Hackatons
 I love participating in these events, with a satisfactory participation in all of them. Due to our technical knowledge, two colleagues from the UAQ Faculty of Computer Science and I were among the 50 selected to participate in the "1st HackaFest" held at the IBERO Puebla University in October 2019, by Sparkassen-Finanzgruppe ( Financial Group of German Savings Banks), an event that lasted one week and where we presented the project for which we were invited by Sparkassen-Finanzgruppe to the Symposium "New Technologies and Financial Inclusion: Opportunities and challenges for the cooperative sector" of FIRA (Trusts Instituted in Relation to Agriculture) in the city of Morelia in November 2019, an event that lasted 1 day and where technological innovation solutions were proposed for the exponential growth of support that the Savings Banks provided to the Mexican countryside.
